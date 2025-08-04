@@ -1,1 +1,3 @@
-# 0804-til
+# TIL (Today I Leraned)
+
+こちらのリポジトリは学習用です。
